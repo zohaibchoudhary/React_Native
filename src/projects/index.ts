@@ -1,4 +1,9 @@
-import Navigation from "./Navigation";
-import TicTacToe from "./TicTacToe";
+import Navigation from './Navigation';
+import PasswordGenerator from './PasswordGenerator';
+import TicTacToe from './TicTacToe';
 
-export {Navigation, TicTacToe}
+export { 
+  Navigation, 
+  TicTacToe, 
+  PasswordGenerator 
+};
